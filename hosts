@@ -1,0 +1,2 @@
+[all]
+192.168.56.10 ansible_user=vagrant ansible_ssh_private_key_file=/Users/oriontekdesign/Desktop/devops-final/.vagrant/machines/default/virtualbox/private_key ansible_python_interpreter=/usr/bin/python3
